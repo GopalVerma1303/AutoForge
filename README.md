@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
 
-## Getting Started
+<img src="./public/af.png" width="200" height="200" />
 
-First, run the development server:
+# AutoForge
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+AutoForge is a cutting-edge SAAS Automation Builder that leverages the latest technologies to streamline your development process.
+
+<br />
+
+[![GitHub stars](https://img.shields.io/github/stars/GopalVerma1303/AutoForge.svg?style=social&label=Star)](https://github.com/GopalVerma1303/AutoForge)
+[![GitHub forks](https://img.shields.io/github/forks/GopalVerma1303/AutoForge.svg?style=social&label=Fork)](https://github.com/GopalVerma1303/AutoForge/fork)
+[![GitHub watchers](https://img.shields.io/github/watchers/GopalVerma1303/AutoForge.svg?style=social&label=Watch)](https://github.com/GopalVerma1303/AutoForge)
+
+</div>
+
+## 🚀 Features
+
+- Secure authentication with Clerk
+- Scalable database solutions using Neon Tech
+- Efficient file handling through Uploadcare
+- Local tunneling with Ngrok
+- Modern web framework with Next.js 14
+- Payment integration via Stripe
+- Lightning-fast runtime with Bun
+
+## 🛠️ Tech Stack
+
+- [Clerk](https://clerk.dev/)
+- [Neon Tech](https://neon.tech/)
+- [Uploadcare](https://uploadcare.com/)
+- [Ngrok](https://ngrok.com/)
+- [Next.js 14](https://nextjs.org/)
+- [Stripe](https://stripe.com/)
+- [Bun](https://bun.sh/)
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```
+git clone https://github.com/GopalVerma1303/AutoForge.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+bun install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. Set up environment variables (refer to `.env.example`)
 
-## Learn More
+4. Run the development server:
 
-To learn more about Next.js, take a look at the following resources:
+```
+bun run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 📝 Documentation
 
-## Deploy on Vercel
+For detailed documentation on each component, please refer to the `docs` folder.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contributions are welcome! Please check out our [Contributing Guide](CONTRIBUTING.md) for more details.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgements
+
+- [Clerk](https://clerk.dev/) for authentication
+- [Neon Tech](https://neon.tech/) for database solutions
+- [Uploadcare](https://uploadcare.com/) for file handling
+- [Ngrok](https://ngrok.com/) for local tunneling
+- [Next.js](https://nextjs.org/) for the web framework
+- [Stripe](https://stripe.com/) for payment processing
+- [Bun](https://bun.sh/) for the runtime environment
+
+---
+
+Made with ❤️ by [Gopal Verma](https://github.com/GopalVerma1303)
