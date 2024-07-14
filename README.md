@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./public/af.png" width="200" height="200" />
+![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only)
+![GitHub-Mark-Dark ](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only)
 
 # AutoForge
 
