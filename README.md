@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- ![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only) -->
-<!-- ![GitHub-Mark-Dark ](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only) -->
-
-![GitHub-Mark-Dark](https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-light.png#gh-dark-mode-only)
-![GitHub-Mark-Light](https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-dark.png#gh-light-mode-only)
+<div align="center">
+  <img src="https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-light.png#gh-dark-mode-only" alt="AutoForge Logo" height="100">
+  <img src="https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-dark.png#gh-light-mode-only" alt="AutoForge Logo" height="100">
+</div>
 
 # AutoForge
 
