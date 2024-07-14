@@ -3,6 +3,9 @@
 ![GitHub-Mark-Light](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png#gh-light-mode-only)
 ![GitHub-Mark-Dark ](https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png#gh-dark-mode-only)
 
+![GitHub-Mark-Dark](https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-light.png)
+![GitHub-Mark-Light](https://github.com/GopalVerma1303/AutoForge/blob/3de49056335271ad21e162c9e6f0ea6be0039e95/public/af-dark.png)
+
 # AutoForge
 
 AutoForge is a cutting-edge SAAS Automation Builder that leverages the latest technologies to streamline your development process.
