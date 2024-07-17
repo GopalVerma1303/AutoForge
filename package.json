@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.29.9",
+    "@clerk/nextjs": "^5.2.3",
     "@hookform/resolvers": "^3.3.4",
     "@notionhq/client": "^2.2.14",
     "@prisma/client": "5.11.0",
@@ -46,6 +46,7 @@
     "reactflow": "^11.10.4",
     "sonner": "^1.4.3",
     "stripe": "^14.21.0",
+    "svix": "^1.25.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^9.0.1",

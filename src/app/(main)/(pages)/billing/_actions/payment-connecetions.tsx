@@ -1,10 +1,10 @@
-'use server'
+"use server";
 
-import { db } from '@/lib/db'
-import { currentUser } from '@clerk/nextjs'
+import { db } from "@/lib/db";
+import { currentUser } from "@clerk/nextjs/server";
 
 export const onPaymentDetails = async () => {
-  const user = await currentUser()
+  const user = await currentUser();
 
   if (user) {
     const connection = await db.user.findFirst({
@@ -15,10 +15,10 @@ export const onPaymentDetails = async () => {
         tier: true,
         credits: true,
       },
-    })
+    });
 
     if (user) {
-      return connection
+      return connection;
     }
   }
-}
+};
