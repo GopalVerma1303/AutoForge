@@ -7,7 +7,7 @@
 
 # AutoForge
 
-AutoForge is a cutting-edge SAAS Automation Builder that leverages the latest technologies to streamline your development process.
+AutoForge is a cutting-edge SAAS Automation Builder that leverages the latest technologies to streamline your development process efficiently.
 
 <br />
 
